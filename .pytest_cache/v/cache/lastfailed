@@ -1,0 +1,4 @@
+{
+  "functional_test.py::test_you": true,
+  "test.py::test_find_phone_number": true
+}
